@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ziyu Yang(杨子煜)!</h1>
 
----
-
-### EN
 
 - 🏫 I am an undergraduate student majoring in **Computer Science and Technology** at **Wuhan University of Technology** (2023-2027).
 - 🎓 I am an incoming Master's student in **Computer Science and Technology** at **ShanghaiTech University**.
@@ -11,9 +8,6 @@
 
 <br>
 
----
-
-### 🇨🇳
 
 - 🏫 我目前就读于**武汉理工大学**计算机科学与技术专业（2023-2027）。
 - 🎓 我即将前往**上海科技大学**攻读计算机科学与技术硕士学位。
@@ -21,7 +15,15 @@
 - 💻 我热衷于利用机器学习、深度学习以及大语言模型（LLM）技术，探索金融市场的智能交易策略。
 
 ---
-
 <p align="center">
-  <a href="mailto:yzy05_1223@whut.edu.cn">📧 Email</a> • 
+  <!-- 邮箱徽章 -->
+  <a href="mailto:yzy05_1223@whut.edu.cn">
+    <img src="https://img.shields.io/badge/Email-yzy05__1223@whut.edu.cn-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+
+  <!-- QQ徽章 -->
+  <a href="https://wpa.qq.com/msgrd?v=3&uin=3287424602&site=qq&menu=yes" target="_blank">
+    <img src="https://img.shields.io/badge/QQ-3287424602-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ" />
+  </a>
 </p>
